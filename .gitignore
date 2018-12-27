@@ -1,0 +1,4 @@
+*.suo
+*.pyproj
+/.vs
+*.sln

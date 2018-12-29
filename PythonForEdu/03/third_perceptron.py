@@ -56,3 +56,4 @@ b=int(b)
 print(AND_New(a,b))
 print(NAND(a,b))
 print(OR(a,b))
+
